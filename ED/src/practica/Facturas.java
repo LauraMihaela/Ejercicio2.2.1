@@ -9,19 +9,22 @@ public class Facturas implements IFactura
 	}
 
 	@Override
-	public void cambiarEstado(Estados estado) {
+	public void cambiarEstado(Estados estado) 
+	{
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public float getTotal() {
+	public float getTotal() 
+	{
 		// TODO Auto-generated method stub
 		return 0;
 	}
 
 	@Override
-	public float getCantidadIva() {
+	public float getCantidadIva() 
+	{
 		// TODO Auto-generated method stub
 		return 0;
 	}
